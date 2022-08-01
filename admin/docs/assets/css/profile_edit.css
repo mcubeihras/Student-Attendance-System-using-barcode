@@ -1,0 +1,91 @@
+img.user-image
+{
+	border-radius:50%;
+	width:160px;
+	height:160px;
+	border:3px solid;
+	border-color:#000;
+}
+
+p.e_profile
+{
+	padding-left:34px;
+	text-align:left !important;
+}
+
+input.name
+{
+	border: 2px solid #ced4da;
+	background-color:#F5F5F5;
+	outline:none;
+	width:90%;
+	padding-left:15px;
+	height:36px;
+	border-radius:5px;
+}
+
+input.name[type=text]:focus
+{
+	border:2px solid #090;
+	transition:1s;
+}
+
+
+div.col-md-5.well.table-one
+{
+	border-radius:8px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+div.col-md-7.well.table-two
+{
+	border-radius:8px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+hr.ruler
+{
+	border-top:1px solid #CCC;
+	width:90%;
+}
+
+button.save_btn
+{
+	color: #FFF;
+    background-color: #009688;
+	border:none;
+	outline:none;
+	height: 38px;
+    width: 107px;
+	border-radius:4px;
+}
+
+button.save_btn:hover
+{
+	background-color:#090;
+	transition:1s;
+}
+
+td.btn_set
+{
+	padding-left:30px;
+}
+
+button.cancel_btn
+{
+	color: #FFF;
+    background-color: #666;
+	border:none;
+	outline:none;
+	height: 38px;
+    width: 107px;
+	border-radius:4px;
+}
+
+button.cancel_btn:hover
+{
+	background-color:#930;
+	transition:1s;
+}

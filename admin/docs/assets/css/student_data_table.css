@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+button.button.edit
+{
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	border-radius:3px;
+}
+button.button.delete
+{
+	background-color: #F00;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	border-radius:3px;
+}

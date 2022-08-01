@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+button.e_or_d_1
+{
+	border:none;
+	width:40px;
+	padding-top:8px; padding-bottom:8px; margin-top:5px; margin-bottom:5px;
+	border-radius:6px;
+	background-color:#090;
+	color:#FFF; font-size:10px; font-weight:600;
+}
+
+button.e_or_d_2
+{
+	border:none;
+	width:40px;
+	padding-top:8px; padding-bottom:8px;margin-top:5px; margin-bottom:5px;
+	border-radius:6px;
+	background-color:#F00;
+	color:#FFF;font-size:10px;font-weight:600;
+}
+

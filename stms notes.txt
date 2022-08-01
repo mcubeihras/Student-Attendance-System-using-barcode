@@ -1,0 +1,10 @@
+1.batch wise dashboard function want do
+2.if we have time add function courde wise
+3.department code should be change int to varchar 11
+4.department name should be change as year
+5.department list should be change when i delete some of list i want add confirmation message4
+6.subject code should be change as varchar 
+7.student course should be change as year 
+8.lecturer form should change as flexible 
+9.reports
+10.

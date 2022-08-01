@@ -1,0 +1,53 @@
+h3.user_name
+{
+	text-align:center;
+	text-transform:uppercase;
+}
+
+h3.user_name:hover
+{
+	color:#009688;
+}
+
+img.user-image
+{
+	border-radius:50%;
+	width:160px;
+	height:160px;
+	border:3px solid;
+	border-color:#000;
+}
+
+td.u_email
+{
+	padding-left:10%;
+	padding-top:5px;
+}
+
+div.col-md-5.well.table-one
+{
+	border-radius:10px;
+}
+
+div.col-md-7.well.table-two
+{
+	border-radius:10px;
+}
+
+button.edit_btn
+{
+	background-color:#009688;
+	text-align:center;
+	border:none;
+	border-radius:10px;
+	padding:10px;
+	color:#FFF;
+	font-size:15px;
+	width:20%;
+}
+
+button.edit_btn:hover
+{
+	background-color:#090;
+	transition:1s;
+}
